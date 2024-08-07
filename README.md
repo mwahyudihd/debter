@@ -1,22 +1,22 @@
-# Debter - Aplikasi Manajemen Hutang
+# Debter - Debt Management App
 
-Debter adalah aplikasi Flutter, projek ini dibuat untuk keperluan pendidikan. Aplikasi ini dirancang untuk membantu pengguna mencatat hutang, menghapus catatan, menandai pembayaran, dan menggunakan kalkulator untuk tujuan manajemen hutang.
+Debter is a Flutter app, this project was created for educational purposes. The app is designed to help users record debts, delete records, mark payments, and use a calculator for debt management purposes.
 
-## Fitur Utama
+## Key Features
 
-1. **Catat dan Kelola Hutang:** Tambahkan catatan baru untuk mencatat hutang dengan mudah.
+1. **Record and Manage Debts:** Add new notes to easily record debts.
 
-2. **Hapus Catatan:** Hapus catatan hutang yang tidak diperlukan.
+2. **Delete Records:** Delete unnecessary debt records.
 
-3. **Checklist Pembayaran:** Tandai catatan yang sudah dibayar dengan fitur checklist.
+3. **Checklist Payment:** Mark paid records with checklist feature.
 
-4. **Kalkulator Hutang:** Gunakan kalkulator untuk menghitung jumlah hutang secara cepat.
+4. **Debt Calculator:** Use the calculator to quickly calculate the amount owed.
 
-## Instalasi
+## Installation
 
-Pastikan Anda memiliki Flutter terinstal. Jika belum, ikuti panduan instalasi Flutter di [flutter.dev](https://flutter.dev/docs/get-started/install).
+Make sure you have Flutter installed. If not, follow the Flutter installation guide at [flutter.dev](https://flutter.dev/docs/get-started/install).
 
-1. Clone repositori ini ke perangkat Anda:
+1. Clone this repository to your device:
    ```bash
    git clone https://github.com/username/Debter.git
    cd Debter
